@@ -1,0 +1,165 @@
+This is the CivEx First Light resourcepack put together by /u/Sharpcastle33
+
+www.reddit.com/r/civex
+
+The following textures are used in this pack:
+
+Joe Williamson's (@JoeCreates) 16x16 Roguelike/RPG Items set
+
+Used in:
+
+Maurea
+Livingwood
+Nightshade Petals
+Plaguewort Bubls
+Dawn Rose Petals
+Lungwort
+Throle Cap
+Feverfew
+Drosse Ivy
+Goldenrod
+Nightcall
+Arcane Scroll
+Immovable Rod
+Goldenglow Shroom
+Ironbark
+Voidroot
+Jotuuns Blood
+Broken Wand
+Arctic Creeper
+Blazewort Bulbs
+Quartz Powder
+Purification Powder
+Necrotic Powder
+Fungal Spores
+Forbidden Tome
+Ice Crystal Shard
+Ice Crystal Fragment
+Phoenix Ash
+Phoenix Standard
+Charred Bone
+Phasing Silk
+Dacat Berries
+Drifting Ivy
+Ember Pelt
+Goldleaf
+Iron Chunk
+Gold Chunk
+
+Kyrise's 16x16 RPG Icon Pack
+
+Used In:
+
+Elderwood Talisman
+Elderwood Charm
+Elderwood Wand
+Elderwood Tome
+Elderwood Bow
+Raal Shadash
+Infused Emerald
+Livingwood Arrow
+Beast Bile
+Dying Breath
+Arachnid Venom
+Ember Scutum
+Bloodstained Tome
+Plague Bile
+Tome of Healing
+Twisted Tome
+
+/u/Futureazoo's "Sometimes when I'm bored I draw spritesheets for mods that don't exist. Here's one for a Tech mod."
+https://www.reddit.com/r/feedthebeast/comments/350vv3/sometimes_when_im_bored_i_draw_spritesheets_for/
+
+Used In:
+
+Iron Casing
+Adamantine Casing
+Strong Delirium Resonator
+Weak Delirium Resonator
+Crude Bastion Core
+Standard Bastion Core
+Intricate Machine Component
+Simple Machine Component
+Crude Bastion Foci
+Standard Bastion Foci
+Quartz Insulator
+Standard Bastion Casing
+Alembic Bellows
+Alembic Chamber
+Brass Scraps
+Armor Plate
+Steamwork Component
+Damaged Delirium Core
+Mangled Resonator
+Emberstone
+Divine Ashes
+Brimstone
+Armor Scraps
+Lifeless  Ash
+
+Reidyaro's 32x32 Items Pack
+https://opengameart.org/content/items
+
+Used In:
+
+Were Tusk
+Were Fang
+Flamegrass Seeds
+Torchfruit
+Frostfruit
+
+141 Military Icons Set by AngryMeteor.com under CC-BY 3.0 license - http://opengameart.org/content/140-military-icons-set-fixed
+
+Used In:
+
+Crystal Lense
+Crystal Lense Rack
+Bioplate
+
+Evilloker:
+
+Tiers 1-3 Block Reinforcement
+Tiers 1-3 Lock Reinforcement
+Tiers 1-3 Vault Reinforcement
+Crimson Steel Armor set
+Soulsteel Armor set
+
+jonassn1:
+
+Pneuamtic Actuator
+Timed Explosive
+Mining Explosive
+Clockwork Repair Kit
+
+Walkers:
+
+Orb of Repair
+Orb of Discord
+
+Skrylfr:
+
+Tallow Candle
+Shark Tooth
+Scorched Letter
+Repair Wrench
+Razorleaf
+Plague Arrow
+Livingwood Quiver
+Ironbark Armor
+Hellhound Fang
+Heal Root
+Flaming Gladius
+Elderberries
+Clockwork Key
+Boar Tusk
+Ashes of Wrath
+Guardsman's Watch
+Magma Core
+Plague Rags
+Dying Embers
+Plagued Flesh
+Ember Ensignia
+
+JacuzziLaFleur:
+
+Spider Fang
